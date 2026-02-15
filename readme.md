@@ -16,14 +16,14 @@ with real-world full-stack application development.
 - Design a structured backend system
 - Implement RESTful APIs
 - Follow industry-standard project structure
-- Gain practical full-stack development experience
+- Gain practical full-stack development experience aaa
 
 ---
 
 ## Problem Statement
 
 Managing daily tasks manually or across multiple platforms can be inefficient.
-This project aims to provide a centralized task management system where users
+This project aims to provide a centralized task management system wher e users
 can create, update, view, and delete tasks easily.
 
 ---
